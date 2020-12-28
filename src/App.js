@@ -406,8 +406,8 @@ constructor(props){
 
 
 this.call = this.call.bind(this);
-this.state={seconds:10}
-this.se=10;
+this.state={seconds:60}
+this.se=60;
 
 this.timer=null;
 
